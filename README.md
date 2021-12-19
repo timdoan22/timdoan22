@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timdoan22
 - 👀 I’m interested in ... tinkering and learning.
-- 🌱 I’m currently learning ... Django
+- 🌱 I’m currently learning ... Bootstrap and Flask
 - 💞️ I’m looking to collaborate on ... anything.
 - 📫 How to reach me ... timdoan01@gmail.com
 
