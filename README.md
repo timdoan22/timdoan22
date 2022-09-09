@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on creating **fullstack MERN application**
 
-- 👨‍💻 Check out my personal website [here](timdoan22.github.io)
+- 👨‍💻 Check out my personal website <a href="https//timdoan22.github.io">here</a>
 
 - 📫 How to reach me **timdoan01@gmail.com**
 
