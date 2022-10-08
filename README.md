@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Web Developer at 100Devs</h3>
 <h4 align="center">I'm currently a full stack web developer who has a passion for software and building things that can have an impact on people's lives. Currently, I am creating web applications for clients at 100Devs. My main focus currently is creating full MERN (MongoDB, Express.JS, React.JS and Node.JS) stack applications. I do also have experience with Python as well. Combined with my previous experience with project management and working in the finance industry, I would like to bring my skills and talents to a full scale software organization.</h4>
 
-- 🔭 I’m currently working on creating **fullstack MERN applications**
+- 🔭 I’m currently working on creating **fullstack applications**
 
 - 👨‍💻 Check out my personal website <a href="https//timdoan22.github.io">here</a>
 
